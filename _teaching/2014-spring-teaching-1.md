@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "Calculus II (Labs and seminars)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Universitat Pompeu Fabra."
+date: 2023-01-01
+location: "Barcelona, Spain"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Extension in the context of functions of several variables of Calculus I. 
 
-Heading 1
-======
+Covered concepts:
 
-Heading 2
-======
+- Definition of function of several real variables
+- domain
+- image
+- ties and trajectories
+- surfaces
+- derivative
+- tangent subspaces
+- local approximation
+- integration in several variables.
+- gradient descent method
 
-Heading 3
-======
+Knowledge is applied in optimization problems.
