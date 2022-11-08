@@ -13,14 +13,14 @@ Extension in the context of functions of several variables of Calculus I.
 Covered concepts:
 
 - Definition of function of several real variables
-- domain
-- image
-- ties and trajectories
-- surfaces
-- derivative
-- tangent subspaces
-- local approximation
-- integration in several variables.
-- gradient descent method
+- Domain
+- Image
+- Ties and Trajectories
+- Surfaces
+- Derivative
+- Tangent subspaces
+- Local approximation
+- Integration in several variables.
+- Gradient Descent method
 
 Knowledge is applied in optimization problems.
