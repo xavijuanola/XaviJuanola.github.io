@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Theoretical Physics, Universitat de Barcelona, 2018
+* M.S. in Intelligent Interactive Systems, Universitat Pompeu Fabra, 2019
+* M.S. in High Energy, Astrophysics and Cosmology, Universitat Autònoma de Barcelona, 2021
+* Ph.D in Sound Source Localization using Deep Learning, Universitat Pompeu Fabra, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 03/2019 - 07/2019: Master Thesis on NLP
+  * Universitat Pompeu Fabra
+  * Duties included: Twitter Crawler, SVM classifier, NLP
+  * Supervisor: Professor Ana Freire
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 07/2019 - 01/2021: Artificial Intelligence Engineer / NLP Engineer
+  * Driving01, Doing Digitalization Happen
+  * Duties included: Chatbot development
+
+* 01/2021 - 08/2021: Data Scientists / Business Intelligence
+  * Driving01, Doing Digitalization Happen
+  * Duties included: Predictive models, Data Unit Project
+
+* 08/2021 - 11/2022: Senior Data Scientist & Data Expert
+  * Schneider Electric
+  * Duties included: Predictive model, Data anonymization, Consultancy
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematics & Physics
+* Research Skills
+* Team Work
+* Machine Learning
+* Deep Learning
 
 Publications
 ======
@@ -54,6 +62,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
