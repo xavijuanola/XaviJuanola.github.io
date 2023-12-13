@@ -1,11 +1,11 @@
 ---
-title: "MLBriefs 3rd Edition Paper Presentation"
+title: "Paper Presentation at MLBriefs 3rd Edition presentation's day"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-12-12-paper_presentation
-venue: "Paris Saclay University, Centre Borelli"
+venue: "Université Paris Saclay, Centre Borelli"
 date: 2023-12-12
-location: "Paris Saclay, France"
+location: "Orsay, France"
 ---
 
 Presentation of the submitted paper: "A Brief Analysis of SLAVC method for Sound Source Localization" at the 3rd edition of the MLBriefs workshop.
