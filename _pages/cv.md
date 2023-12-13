@@ -63,7 +63,7 @@ redirect_from:
 
   <ul>{% for post in site.talks %}
   {% include archive-single-talk-cv.html %}
-  {% endfor %}</u>
+  {% endfor %}
 
 # Teaching
 
