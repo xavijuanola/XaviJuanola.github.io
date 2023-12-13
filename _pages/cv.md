@@ -18,28 +18,28 @@ redirect_from:
 
 # Work experience
 
-### 03/2019 - 07/2019: Master Thesis on NLP
+### March 2019 - July 2019: Master Thesis on NLP
 
 - _Universitat Pompeu Fabra_
 - **Duties included**: Twitter Crawler, SVM classifier, NLP
 - **Supervisor**: Professor Ana Freire
 
-### 07/2019 - 01/2021: Artificial Intelligence Engineer / NLP Engineer
+### July 2019 - January 2021: Artificial Intelligence Engineer / NLP Engineer
 
 - _Driving01, Doing Digitalization Happen_
 - **Duties included**: Chatbot development
 
-### 01/2021 - 08/2021: Data Scientists / Business Intelligence
+### January 2021 - August 2021: Data Scientists / Business Intelligence
 
 - _Driving01, Doing Digitalization Happen_
 - **Duties included**: Predictive models, Data Unit Project
 
-### 08/2021 - 11/2022: Senior Data Scientist & Data Expert
+### August 2021 - November 2022: Senior Data Scientist & Data Expert
 
 - _Schneider Electric_
 - **Duties included**: Predictive model, Data anonymization, Consultancy
 
-### 11/2022 - Actual: Ph.D Candidate
+### November 2022 - Actual: Ph.D Candidate
 
 - _Universitat Pompeu Fabra_
 - **Duties included**: Research, Teaching
