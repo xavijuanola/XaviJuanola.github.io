@@ -22,7 +22,7 @@ redirect_from:
 
 - _Universitat Pompeu Fabra_
 - **Duties included**: Twitter Crawler, SVM classifier, NLP
-- Supervisor: Professor Ana Freire
+- **Supervisor**: Professor Ana Freire
 
 ### 07/2019 - 01/2021: Artificial Intelligence Engineer / NLP Engineer
 
@@ -43,7 +43,7 @@ redirect_from:
 
 - _Universitat Pompeu Fabra_
 - **Duties included**: Research, Teaching
-- Supervisor: Professor Gloria Haro
+- **Supervisor**: Professor Gloria Haro
 
 # Skills
 
