@@ -13,7 +13,7 @@ improvements that could benefit the model as future work.'
 date: 2009-10-01
 venue: 'Image Processing On Line'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Xavier Juanola, Gloria Haro. (2023). &quot;"A Brief Analysis of SLAVC method for Sound Source Localization".&quot; <i>Image Processing On Line/i>'
+citation: 'Xavier Juanola, Gloria Haro. (2023). &quot;A Brief Analysis of SLAVC method for Sound Source Localization.&quot; <i>Image Processing On Line/i>'
 ---
 
 Preprint Paper.
