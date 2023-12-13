@@ -40,7 +40,7 @@ redirect_from:
   - Duties included: Predictive model, Data anonymization, Consultancy
   - Supervisor: Professor Hub
 
-- 11/2022 - 11/2026: Ph.D Candidate
+- 11/2022 - Actual: Ph.D Candidate
   - Universitat Pompeu Fabra
   - Duties included: Research, Teaching
   - Supervisor: Professor Gloria Haro
@@ -53,17 +53,17 @@ redirect_from:
 - Machine Learning
 - Deep Learning
 
-# <-- Publications
+<!--# Publications -->
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <!-- <ul>{% for post in site.publications %} -->
+  <!--  {% include archive-single-cv.html %} -->
+  <!-- {% endfor %}</ul> -->
 
 # Talks
 
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% include archive-single-talk-cv.html %}
+  {% endfor %}</u
 
 # Teaching
 
@@ -71,7 +71,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Service and leadership
+<!--# Service and leadership -->
 
-- Currently signed in to 43 different slack teams
-  -->
+<!--- Currently signed in to 43 different slack teams -->
+<!--  -->
