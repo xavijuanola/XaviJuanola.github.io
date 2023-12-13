@@ -1,8 +1,8 @@
 ---
 title: "Calculus II (Labs and seminars)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Teaching"
+permalink: /teaching/2023-2024_Calculus_II
 venue: "Universitat Pompeu Fabra"
 date: 2024-01-01
 location: "Barcelona, Spain"
