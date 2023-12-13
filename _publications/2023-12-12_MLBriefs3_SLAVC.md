@@ -20,4 +20,4 @@ Preprint Paper.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Xavier Juanola, Gloria Haro. (2023). &quot;A Brief Analysis of SLAVC method for Sound Source Localization.&quot; <i>Image Processing On Line/i>.
