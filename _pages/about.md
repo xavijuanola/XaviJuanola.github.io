@@ -10,7 +10,7 @@ redirect_from:
 
 I received my Bachelor degree in **Physics** at [Universitat de Barcelona (UB)](https://www.ub.edu) in 2018. One year later I got my **Msc in Artificial Intelligence** from [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/) in Barcelona. 
 
-I have been 3 and a half years working in the industry as a Data Scientist, and coursing a **Msc in Astrophysics and Cosmology** as a hobby. Currently doing my **PhD on Sound Localization** at [Image Processing and Computer Vision Group (IPCV)](https://www.upf.edu/web/ipcv), under Prof. [Gloria Haro](https://www.upf.edu/web/gloria-haro)'s supervision. 
+I have been 3 and a half years working in the industry as a Data Scientist, and coursing a **Msc in Astrophysics and Cosmology** as a hobby. Currently doing my **PhD on Sound Localization** at [Intelligent Multimodal Vision Analysis (IMVA)](https://www.upf.edu/en/web/universitat/-/grup-de-recerca-en-processament-d-imatges-i-visio-per-computador), under Prof. [Gloria Haro](https://www.upf.edu/web/gloria-haro)'s supervision. 
 
 I am interested in the artificial intelligence field, more specifically in Deep Learning and computer vision.
 
@@ -36,7 +36,7 @@ I am interested in the artificial intelligence field, more specifically in Deep 
           <a href="{{ author.website }}" class="author-link" target="_blank">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
         {% endfor %}
       </p>
-      <p class="venue"><strong>Venue:</strong> {{ post.venue }}</p>
+      <p class="venue"><strong>{{ post.venue }}</strong></p>
       <div class="publication-links">
         {% if post.projecturl and post.projecturl != "" %}
         <a href="{{ post.projecturl }}" target="_blank" class="publication-link">
@@ -92,23 +92,23 @@ I am interested in the artificial intelligence field, more specifically in Deep 
   }
   
   /* Style for author links to look like normal text but be clickable */
-  .author-link {
-    color: inherit;
-    text-decoration: none;
-    cursor: pointer;
-  }
-  .author-link:hover {
-    text-decoration: underline;
-  }
-  
-  /* Style for title to be a link but not underlined */
-  .publication-title {
-    color: inherit;
-    text-decoration: none;
-  }
-  .publication-title:hover {
-    text-decoration: underline;
-  }
+.author-link {
+  color: inherit;
+  text-decoration: none; /* Ensure links are not underlined by default */
+  cursor: pointer;
+}
+.author-link:hover {
+  text-decoration: underline; /* Only underline on hover */
+}
+
+/* Style for title to be a link but not underlined */
+.publication-title {
+  color: inherit;
+  text-decoration: none; /* Ensure titles are not underlined by default */
+}
+.publication-title:hover {
+  text-decoration: underline; /* Only underline on hover */
+}
   
   .publication-link {
     font-size: 0.75em;
