@@ -84,9 +84,14 @@ I am interested in the artificial intelligence field, more specifically in Deep 
     max-width: 80%;
     font-size: 0.85em;
   }
-  .authors, .venue {
-    margin: 0;
-  }
+  /* Style for author and venue elements to reduce space between them */
+.authors {
+  margin-bottom: 5px; /* Reduce the bottom margin to bring venue closer */
+}
+
+.venue {
+  margin-top: 0; /* Remove any top margin to reduce space */
+}
   .publication-links {
     margin-top: 8px;
   }
