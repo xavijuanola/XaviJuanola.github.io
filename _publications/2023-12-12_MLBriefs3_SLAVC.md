@@ -16,7 +16,7 @@ evidence to support it in the video. In this paper, we briefly present the metho
 executable version allowing the users to test it on their own image-audio pairs and propose some
 improvements that could benefit the model as future work.'
 date: 2023-12-12
-venue: 'Image Processing On Line'
+venue: 'Image Processing On Line (IPOL)'
 image: "/assets/images/publications/blank.png"
 projecturl: "https://xavijuanola.github.io/vssl_eval_projectpage_test/"
 githuburl: ""

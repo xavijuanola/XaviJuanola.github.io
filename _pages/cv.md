@@ -56,7 +56,8 @@ redirect_from:
 # Publications
 
 <ul>
-  {% for post in site.publications %}
+{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+  {% for post in sorted_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
@@ -64,7 +65,8 @@ redirect_from:
 # Talks
 
 <ul>
-  {% for post in site.talks %}
+{% assign sorted_talks = site.talks | sort: 'date' | reverse %}
+  {% for post in sorted_talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}
 </ul>
@@ -72,7 +74,8 @@ redirect_from:
 # Teaching
 
 <ul>
-  {% for post in site.teaching %}
+{% assign sorted_teaching = site.teaching | sort: 'date' | reverse %}
+  {% for post in sorted_teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>

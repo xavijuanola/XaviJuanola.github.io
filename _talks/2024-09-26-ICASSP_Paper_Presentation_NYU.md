@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-09-26-ICASSP_Paper_Presentation_NYU
 venue: "New York University, Tandon School of Engineering"
-date: 20234-09-26
+date: 2024-09-26
 location: "New York City, USA"
 ---
 
