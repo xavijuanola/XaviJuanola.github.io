@@ -18,10 +18,10 @@ improvements that could benefit the model as future work.'
 date: 2023-12-12
 venue: 'Image Processing On Line (IPOL)'
 image: "/assets/images/publications/blank.png"
-projecturl: "https://xavijuanola.github.io/vssl_eval_projectpage_test/"
+projecturl: "http://www.ipol.im/pub/art/2024/525/"
 githuburl: ""
 arxivurl: ""
-paperurl: 'http://www.ipol.im/pub/art/2024/525'
+paperurl: 'http://www.ipol.im/pub/art/2024/525/article.pdf'
 citation: 'Xavier Juanola, Gloria Haro. (2023). &quot;A Brief Analysis of SLAVC method for Sound Source Localization.&quot; <i>Image Processing On Line</i>'
 ---
 
