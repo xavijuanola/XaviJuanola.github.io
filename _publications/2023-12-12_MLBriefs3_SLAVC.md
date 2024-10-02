@@ -1,5 +1,10 @@
 ---
 title: "A Brief Analysis of SLAVC method for Sound Source Localization"
+authors:
+  - name: "Xavier Juanola"
+    website: "https://xavijuanola.github.io"
+  - name: "Gloria Haro"
+    website: "https://www.upf.edu/web/gloria-haro"
 collection: publications
 permalink: /publication/2023-12-12_MLBriefs3_SLAVC
 excerpt: 'Mo and Morgado introduced in 2022 a novel self-supervised learning approach for Visual Sound
@@ -12,7 +17,11 @@ executable version allowing the users to test it on their own image-audio pairs 
 improvements that could benefit the model as future work.'
 date: 2023-12-12
 venue: 'Image Processing On Line'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+image: "/assets/images/publications/blank.png"
+projecturl: "https://xavijuanola.github.io/vssl_eval_projectpage_test/"
+githuburl: ""
+arxivurl: ""
+paperurl: 'http://www.ipol.im/pub/art/2024/525'
 citation: 'Xavier Juanola, Gloria Haro. (2023). &quot;A Brief Analysis of SLAVC method for Sound Source Localization.&quot; <i>Image Processing On Line</i>'
 ---
 
