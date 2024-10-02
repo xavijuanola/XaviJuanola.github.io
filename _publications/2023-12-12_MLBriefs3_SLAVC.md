@@ -27,4 +27,4 @@ citation: 'Xavier Juanola, Gloria Haro. (2023). &quot;A Brief Analysis of SLAVC 
 
 Preprint Paper.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Paper page](http://www.ipol.im/pub/art/2024/525)
