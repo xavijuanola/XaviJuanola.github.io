@@ -12,8 +12,8 @@ Presentation of the submitted paper: "A Critical Assessment of Visual Sound Sour
 
 The paper is still under revision and will be published soon.
 
-[Project page](https://xavijuanola.github.io/vssl_eval_projectpage_test)
+[Project page](https://xavijuanola.github.io/vssleval)
 
-[Available code](https://github.com/xavijuanola/vssl_eval_test)
+[Available code](https://github.com/xavijuanola/vssl_eval)
 
-[Download paper here](https://drive.google.com/file/d/11uQ900xNGOHAOpbT33rGXJuoYYV2RZec/view?usp=sharing)
+[Download paper here](https://arxiv.org/abs/2410.01020)
